@@ -1,4 +1,3 @@
-### Confidence intervals for “bigcity”, Example 3.11.
 library(boot)
 attach(bigcity)
 F <- function(x,y){
