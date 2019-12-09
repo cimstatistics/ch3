@@ -8,5 +8,4 @@ Further, the bootstrap hypothesis testing, methods for sampling under the null h
 The underlying theoretical background of the various methods are explained. All methods are demonstrated with a series of examples and plots. Some of the most important R codes are given. The chapter ends with a list of problems useful for written exams.
 
 
-The R codes will be available on December 15. 
 
